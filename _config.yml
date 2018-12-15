@@ -1,11 +1,12 @@
 # Site settings
-title: 网呀斌
-SEOTitle: 柏荧的博客 | BY Blog
+title: 王亚斌
+SEOTitle: 王亚斌的博客 | WYB Blog
 header-img: img/post-bg-desk.jpg
 email: iamwangyabin@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "WYB, WYB Blog, 王亚斌的博客, yabinwang, 王亚斌, C++, CV"
+url: "http://iamwangyabin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
@@ -19,10 +20,10 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+zhihu_username:     星云舰长
+github_username:    iamwangyabin
+#facebook_username:  baiying.qiu.7
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
