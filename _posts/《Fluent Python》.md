@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      Fluent Python
+subtitle:   读书笔记
+date:       2018-06-05
+author:     WYB
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+    - Python
+---
+
 # Chapter 2 An Array of Sequences
 ### Augmented Assignment with Sequences
 +=的实现是__iadd__方法，如果没有这个方法解释器就会用__add__方法。这两个会有区别的，因为大多时候+=是不会改变对象，而用__add__方法就可能是创建个新对象再把引用给过去，查id就不一样。
